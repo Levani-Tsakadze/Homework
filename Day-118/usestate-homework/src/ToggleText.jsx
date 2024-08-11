@@ -13,4 +13,4 @@ function ToggleText() {
   );
 }
 
-export default ToggleText;
+export default ToggleText

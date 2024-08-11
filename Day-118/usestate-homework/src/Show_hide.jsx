@@ -13,4 +13,4 @@ function ShowHide() {
   );
 }
 
-export default ShowHide;
+export default ShowHide
